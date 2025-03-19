@@ -23,6 +23,7 @@
 4. Run the trainer as Administrator.
 5. Launch Free Fire.
 6. Select the desired cheats using the interface.
+7. The username and password are both 1 and 1.
 
 ## Usage
 1. **Aimbot**: Apply Aimbot In Every Game.
