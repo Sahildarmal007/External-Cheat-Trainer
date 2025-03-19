@@ -17,11 +17,12 @@
 - Compatible Free Fire Client
 
 ## Installation
-1. Download the cheat trainer executable.
-2. Disable your antivirus or add the cheat to exceptions (it may flag false positives).
-3. Run the trainer as Administrator.
-4. Launch Free Fire.
-5. Select the desired cheats using the interface.
+1. Download the cheat trainer Zip.
+2. Use any IDE to build , after successfully build run the exe from Debug folder.
+3. Disable your antivirus or add the cheat to exceptions (it may flag false positives).
+4. Run the trainer as Administrator.
+5. Launch Free Fire.
+6. Select the desired cheats using the interface.
 
 ## Usage
 1. **Aimbot**: Apply Aimbot In Every Game.
